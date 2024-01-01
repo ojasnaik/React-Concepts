@@ -1,1 +1,1 @@
-Simple website to learn important react concepts
+Simple website to display important React concepts
